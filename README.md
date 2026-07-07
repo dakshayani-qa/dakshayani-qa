@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Dakshayani 👋
 
-<!--
-**dakshayani-qa/dakshayani-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Automation Engineer passionate about building AI-powered testing tools.
 
-Here are some ideas to get you started:
+- 🔭 Currently building: **TestPilot AI** — an AI agent pipeline that generates
+  QA test cases (positive/negative/edge/regression) from requirement documents
+  using local LLMs
+- 🛠️ Skills: Python, Test Automation, AI Agents, Ollama, Streamlit, Selenium, SQL
+- 📫 Reach me: dakshu.tech26@gmail.com | [LinkedIn URL]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Project
+**[TestPilot AI](https://github.com/yourusername/testpilot-ai-test-case-generator)**
+AI-powered test case generator that reads requirement docs (PDF, Word, Excel,
+CSV, Text) and auto-generates categorized test cases with regression tagging —
+built entirely on free, open-source tools, runs fully local.
